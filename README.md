@@ -1,1 +1,7 @@
 [![ASHISH-7142023's animated GitSkins profile](https://www.gitskins.com/api/section/hero?username=ASHISH-7142023&theme=matrix&style=aura)](https://www.gitskins.com/showcase/ASHISH-7142023?skin=cyber)
+![GitSkins Animated Stats](https://www.gitskins.com/api/section/stats?username=ASHISH-7142023&theme=zen&style=aura)
+![GitSkins Animated Stack](https://www.gitskins.com/api/section/stack?username=ASHISH-7142023&theme=zen&style=aura)
+![GitSkins Animated Projects](https://www.gitskins.com/api/section/projects?username=ASHISH-7142023&theme=zen&style=aura)
+![GitSkins Animated Highlights](https://www.gitskins.com/api/section/highlights?username=ASHISH-7142023&theme=zen&style=aura)
+![GitSkins Animated Heatmap](https://www.gitskins.com/api/section/heatmap?username=ASHISH-7142023&theme=zen&style=aura)
+![GitSkins Animated Social Row](https://www.gitskins.com/api/section/social?username=ASHISH-7142023&theme=zen&style=aura)
