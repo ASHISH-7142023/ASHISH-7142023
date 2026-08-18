@@ -1,6 +1,6 @@
 # ASHISH-7142023
 <p align="center">
-  <video src="New_Linked_Banner.mp4" width="100%" autoplay loop muted playsinline style="border-radius: 12px; box-shadow: 0 10px 30px rgba(0,0,0,0.3);"></video>
+  <img src="Perfect.jpg" alt="Ashish Ranjan Singh Banner" width="100%" style="border-radius: 12px; box-shadow: 0 10px 30px rgba(0,0,0,0.3);" />
 </p>
 
 <p align="center">
