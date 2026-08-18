@@ -109,10 +109,10 @@ Here are a few notable projects I've built, reflecting my focus on performance, 
 ### 🤝 Let's Connect!
 
 <p align="center">
-  <a href="https://linkedin.com/in/ashish-ranjan-singh" target="_blank">
+  <a href="https://www.linkedin.com/in/ashish-ranjan-singh-9b15b328b/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="mailto:ashishranjansingh.dev@gmail.com">
+  <a href="mailto:singhashishranjan362@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
   <a href="https://github.com/ASHISH-7142023">
