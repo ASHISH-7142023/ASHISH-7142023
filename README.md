@@ -1,7 +1,6 @@
 # ASHISH-7142023
-
 <p align="center">
-  <img src="profile_banner.jpg" alt="Ashish Ranjan Singh Banner" width="100%" style="border-radius: 12px; box-shadow: 0 10px 30px rgba(0,0,0,0.3);" />
+  <video src="New_Linked_Banner.mp4" width="100%" autoplay loop muted playsinline style="border-radius: 12px; box-shadow: 0 10px 30px rgba(0,0,0,0.3);"></video>
 </p>
 
 <p align="center">
@@ -11,7 +10,7 @@
   <a href="#">
     <img src="https://img.shields.io/badge/Location-India-0284c7?style=for-the-badge&logo=googlemaps&logoColor=white" alt="Location" />
   </a>
-  <a href="mailto:ashishranjansingh.dev@gmail.com">
+  <a href="mailto:singhashishranjan362@gmail.com">
     <img src="https://img.shields.io/badge/Contact-Email%20Me-dc2626?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
 </p>
@@ -20,7 +19,7 @@
 
 ### Hey there! I'm Ashish Ranjan Singh 👋
 
-I am a passionate **Full-Stack & Systems Engineer** dedicated to building premium, high-fidelity user interfaces and horizontally-scalable backend architectures. I specialize in merging high-fidelity visual design (such as glassmorphism, custom SVG forecasting charts, and smooth keyframe animations) with production-grade backend networks (Java/Spring Boot, Node.js/Express, Redis, and relational databases).
+I am a passionate **Full-Stack & Software Engineer** dedicated to building premium, high-fidelity user interfaces and horizontally-scalable backend architectures. I specialize in merging high-fidelity visual design (such as glassmorphism, custom SVG forecasting charts, and smooth keyframe animations) with production-grade backend networks (Java/Spring Boot, Node.js/Express, Redis, and relational databases).
 
 * **🔭 Working on:** Scalable real-time synchronization systems and interactive AI dashboards.
 * **🎨 Design Philosophy:** Minimalist layouts, HSL-curated color schemes, fluid transitions, and rich micro-interactions.
