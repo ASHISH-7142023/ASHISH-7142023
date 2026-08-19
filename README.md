@@ -1,20 +1,21 @@
-# ASHISH-7142023
+
 
 <p align="center">
   <img src="Perfect.jpg" alt="Ashish Ranjan Singh Banner" width="100%" style="border-radius: 12px; box-shadow: 0 10px 30px rgba(0,0,0,0.3);" />
 </p>
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/ashish-ranjan-singh-9b15b328b/">
-    <img src="https://img.shields.io/badge/role-systems%20%26%20full--stack-22c55e?style=for-the-badge&logo=terminal&logoColor=22c55e&labelColor=0d1117" alt="Role" />
-  </a>
-  <a href="#">
-    <img src="https://img.shields.io/badge/location-india-22c55e?style=for-the-badge&logo=googlemaps&logoColor=22c55e&labelColor=0d1117" alt="Location" />
-  </a>
-  <a href="mailto:singhashishranjan362@gmail.com">
-    <img src="https://img.shields.io/badge/contact-email%20me-22c55e?style=for-the-badge&logo=gmail&logoColor=22c55e&labelColor=0d1117" alt="Email" />
-  </a>
-</p>
+## 🌐 Social Connect
+
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/ashish.ranjan.singh.335865/) 
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/ashish_ranjan1512.official?igsh=dGRtcTE1N21rZ2hq) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ashish-ranjan-singh-9b15b328b/) 
+[![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@singhashishranjan362) 
+[![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://in.pinterest.com/singhashishranjan362/) 
+[![Quora](https://img.shields.io/badge/Quora-%23B92B27.svg?logo=Quora&logoColor=white)](https://www.quora.com/profile/Ashish-Ranjan-Singh-35) 
+[![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://www.reddit.com/user/Easy_Journalist_7393/) 
+[![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/27927438/ashish-ranjan-singh) 
+[![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/ASHISHR31357992) 
+[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:singhashishranjan362@gmail.com)
 
 ---
 
@@ -37,18 +38,6 @@ I am a passionate **Full-Stack & Systems Engineer** dedicated to building premiu
 
 ---
 
-## 🌐 Social Connect
-
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/ashish.ranjan.singh.335865/) 
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/ashish_ranjan1512.official?igsh=dGRtcTE1N21rZ2hq) 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ashish-ranjan-singh-9b15b328b/) 
-[![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@singhashishranjan362) 
-[![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://in.pinterest.com/singhashishranjan362/) 
-[![Quora](https://img.shields.io/badge/Quora-%23B92B27.svg?logo=Quora&logoColor=white)](https://www.quora.com/profile/Ashish-Ranjan-Singh-35) 
-[![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://www.reddit.com/user/Easy_Journalist_7393/) 
-[![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/27927438/ashish-ranjan-singh) 
-[![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/ASHISHR31357992) 
-[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:singhashishranjan362@gmail.com)
 
 ## 💻 Tech Stack
 
