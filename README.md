@@ -37,53 +37,215 @@ I am a passionate **Full-Stack & Systems Engineer** dedicated to building premiu
 
 ---
 
-### 📊 GitSkins Performance Metrics & Stack
+## 🌐 Social Connect
 
-<p align="center">
-  <a href="https://www.gitskins.com/showcase/ASHISH-7142023?skin=cyber">
-    <img src="https://www.gitskins.com/api/section/hero?username=ASHISH-7142023&theme=matrix&style=aura" alt="Ashish's GitSkins Cyber Showcase" width="100%" />
-  </a>
-</p>
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/ashish.ranjan.singh.335865/) 
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/ashish_ranjan1512.official?igsh=dGRtcTE1N21rZ2hq) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ashish-ranjan-singh-9b15b328b/) 
+[![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@singhashishranjan362) 
+[![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://in.pinterest.com/singhashishranjan362/) 
+[![Quora](https://img.shields.io/badge/Quora-%23B92B27.svg?logo=Quora&logoColor=white)](https://www.quora.com/profile/Ashish-Ranjan-Singh-35) 
+[![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://www.reddit.com/user/Easy_Journalist_7393/) 
+[![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/27927438/ashish-ranjan-singh) 
+[![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/ASHISHR31357992) 
+[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:singhashishranjan362@gmail.com)
 
-<table align="center" width="100%">
+---
+
+## 📊 GitSkins Performance Metrics & Stack
+
+<table width="100%">
   <tr>
-    <td width="50%" align="center">
-      <img src="https://www.gitskins.com/api/section/stats?username=ASHISH-7142023&theme=matrix&style=aura" alt="GitHub Stats" width="100%" />
+    <!-- LEFT SIDEBAR -->
+    <td width="30%" valign="top" style="border: 1px solid rgba(74, 222, 128, 0.24); background: rgba(2, 12, 6, 0.78); border-radius: 18px; padding: 14px;">
+      <p align="center">
+        <a href="https://www.gitskins.com/showcase/ASHISH-7142023?skin=cyber">
+          <img src="https://www.gitskins.com/api/github-avatar?username=ASHISH-7142023&size=400" width="90%" alt="ASHISH-7142023 Avatar" style="border-radius: 12px; border: 2px solid #22c55e;" />
+        </a>
+      </p>
+      <h3 align="center" style="margin: 8px 0 2px 0;">ASHISH-7142023</h3>
+      <p align="center" style="margin-top: 0; color: #8bd9a2;"><small>@ASHISH-7142023</small></p>
+      <hr style="border-color: rgba(74, 222, 128, 0.24);"/>
+      
+      <!-- Metrics Boxes -->
+      <table width="100%">
+        <tr>
+          <td align="center" style="padding: 4px;">
+            <h4 style="margin: 0; color: #eafff0;">8</h4>
+            <p style="margin: 0; color: #8bd9a2; font-size: 9px;"><small>REPOS</small></p>
+          </td>
+          <td align="center" style="padding: 4px;">
+            <h4 style="margin: 0; color: #eafff0;">2</h4>
+            <p style="margin: 0; color: #8bd9a2; font-size: 9px;"><small>FOLLOWERS</small></p>
+          </td>
+        </tr>
+      </table>
+      <hr style="border-color: rgba(74, 222, 128, 0.24);"/>
+      
+      <!-- Feature Flags -->
+      <p style="font-size: 11px; margin: 4px 0;"><span style="color: #22c55e;">✦</span> Profile README system</p>
+      <p style="font-size: 11px; margin: 4px 0;"><span style="color: #22c55e;">✦</span> Theme-aware avatar pack</p>
+      <p style="font-size: 11px; margin: 4px 0;"><span style="color: #22c55e;">✦</span> Hosted portfolio skin</p>
+      <p style="font-size: 11px; margin: 4px 0;"><span style="color: #22c55e;">✦</span> Animated visual kit</p>
+      <hr style="border-color: rgba(74, 222, 128, 0.24);"/>
+      <p align="center" style="margin: 0;">
+        <img src="https://img.shields.io/badge/status-active-22c55e?style=flat-square" alt="Status" /><br/>
+        <img src="https://img.shields.io/badge/location-india-0284c7?style=flat-square" alt="Location" />
+      </p>
     </td>
-    <td width="50%" align="center">
-      <img src="https://www.gitskins.com/api/section/stack?username=ASHISH-7142023&theme=matrix&style=aura" alt="Top Languages" width="100%" />
+
+    <!-- RIGHT MAIN PANEL -->
+    <td width="70%" valign="top" style="padding-left: 14px;">
+      <!-- Animated GitSkins Hero Widget -->
+      <a href="https://www.gitskins.com/showcase/ASHISH-7142023?skin=cyber">
+        <img src="https://www.gitskins.com/api/section/hero?username=ASHISH-7142023&theme=matrix&style=aura" width="100%" alt="ASHISH-7142023's animated GitSkins profile" />
+      </a>
+      
+      <br/><br/>
+      
+      <!-- Stats & Stack Widgets -->
+      <table width="100%">
+        <tr>
+          <td width="50%" align="center">
+            <img src="https://www.gitskins.com/api/section/stats?username=ASHISH-7142023&theme=matrix&style=aura" width="100%" alt="GitHub Stats" />
+          </td>
+          <td width="50%" align="center">
+            <img src="https://www.gitskins.com/api/section/stack?username=ASHISH-7142023&theme=matrix&style=aura" width="100%" alt="Top Languages" />
+          </td>
+        </tr>
+      </table>
     </td>
   </tr>
 </table>
 
 ---
 
-### 💻 Technologies & Developer Toolkit
+## 💻 Tech Stack
+
+For recruiter convenience, my technical toolkit is categorized below:
 
 <table align="center" width="100%">
   <tr>
+    <!-- Languages -->
     <td width="50%" valign="top">
-      <h4>🚀 Languages & Front-End Architecture</h4>
-      <img src="https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
-      <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript" />
-      <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React" />
-      <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML5" />
-      <br/><br/>
-      <img src="https://img.shields.io/badge/Tailwind_CSS-38BDF8?style=flat-square&logo=tailwind-css&logoColor=white" alt="Tailwind CSS" />
-      <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS3" />
-      <img src="https://img.shields.io/badge/jQuery-0769AD?style=flat-square&logo=jquery&logoColor=white" alt="jQuery" />
+      <strong>🚀 Programming Languages</strong><br/>
+      <img src="https://img.shields.io/badge/c-%2300599C.svg?style=plastic&logo=c&logoColor=white" alt="C" />
+      <img src="https://img.shields.io/badge/c%23-%23239120.svg?style=plastic&logo=csharp&logoColor=white" alt="C#" />
+      <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=plastic&logo=c%2B%2B&logoColor=white" alt="C++" />
+      <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=plastic&logo=openjdk&logoColor=white" alt="Java" />
+      <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=plastic&logo=javascript&logoColor=%23F7DF1E" alt="JavaScript" />
+      <img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=plastic&logo=typescript&logoColor=white" alt="TypeScript" />
+      <img src="https://img.shields.io/badge/python-3670A0?style=plastic&logo=python&logoColor=ffdd54" alt="Python" />
+      <img src="https://img.shields.io/badge/PowerShell-%235391FE.svg?style=plastic&logo=powershell&logoColor=white" alt="PowerShell" />
     </td>
+    <!-- Front-End & UI -->
     <td width="50%" valign="top">
-      <h4>⚡ Back-End Engineering & Systems</h4>
-      <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" alt="Java" />
-      <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=spring-boot&logoColor=white" alt="Spring Boot" />
-      <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white" alt="Node" />
-      <img src="https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white" alt="Express" />
-      <br/><br/>
-      <img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white" alt="Redis" />
-      <img src="https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL" />
-      <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker" />
-      <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git" />
+      <strong>⚡ Front-End & UI Frameworks</strong><br/>
+      <img src="https://img.shields.io/badge/react-%2320232a.svg?style=plastic&logo=react&logoColor=%2361DAFB" alt="React" />
+      <img src="https://img.shields.io/badge/react_native-%2320232a.svg?style=plastic&logo=react&logoColor=%2361DAFB" alt="React Native" />
+      <img src="https://img.shields.io/badge/angular.js-%23E23237.svg?style=plastic&logo=angularjs&logoColor=white" alt="Angular.js" />
+      <img src="https://img.shields.io/badge/Next-black?style=plastic&logo=next.js&logoColor=white" alt="Next JS" />
+      <img src="https://img.shields.io/badge/vite-%23646CFF.svg?style=plastic&logo=vite&logoColor=white" alt="Vite" />
+      <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=plastic&logo=html5&logoColor=white" alt="HTML5" />
+      <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=plastic&logo=css3&logoColor=white" alt="CSS3" />
+      <img src="https://img.shields.io/badge/bootstrap-%238511FA.svg?style=plastic&logo=bootstrap&logoColor=white" alt="Bootstrap" />
+      <img src="https://img.shields.io/badge/jquery-%230769AD.svg?style=plastic&logo=jquery&logoColor=white" alt="jQuery" />
+      <img src="https://img.shields.io/badge/-React%20Query-FF4154?style=plastic&logo=react%20query&logoColor=white" alt="React Query" />
+    </td>
+  </tr>
+  <tr>
+    <!-- Back-End & APIs -->
+    <td width="50%" valign="top">
+      <strong>⚙️ Back-End Engineering & Systems</strong><br/>
+      <img src="https://img.shields.io/badge/node.js-6DA55F?style=plastic&logo=node.js&logoColor=white" alt="NodeJS" />
+      <img src="https://img.shields.io/badge/express.js-%23404d59.svg?style=plastic&logo=express&logoColor=%2361DAFB" alt="Express.js" />
+      <img src="https://img.shields.io/badge/spring-%236DB33F.svg?style=plastic&logo=spring&logoColor=white" alt="Spring Boot" />
+      <img src="https://img.shields.io/badge/FastAPI-005571?style=plastic&logo=fastapi" alt="FastAPI" />
+      <img src="https://img.shields.io/badge/django-%23092E20.svg?style=plastic&logo=django&logoColor=white" alt="Django" />
+      <img src="https://img.shields.io/badge/JWT-black?style=plastic&logo=JSON%20web%20tokens" alt="JWT" />
+      <img src="https://img.shields.io/badge/NPM-%23CB3837.svg?style=plastic&logo=npm&logoColor=white" alt="NPM" />
+    </td>
+    <!-- Databases & ORMs -->
+    <td width="50%" valign="top">
+      <strong>💾 Databases & ORMs</strong><br/>
+      <img src="https://img.shields.io/badge/postgres-%23316192.svg?style=plastic&logo=postgresql&logoColor=white" alt="Postgres" />
+      <img src="https://img.shields.io/badge/mysql-4479A1.svg?style=plastic&logo=mysql&logoColor=white" alt="MySQL" />
+      <img src="https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=plastic&logo=microsoft%20sql%20server&logoColor=white" alt="MicrosoftSQLServer" />
+      <img src="https://img.shields.io/badge/Oracle-F80000?style=plastic&logo=oracle&logoColor=white" alt="Oracle" />
+      <img src="https://img.shields.io/badge/sqlite-%2307405e.svg?style=plastic&logo=sqlite&logoColor=white" alt="SQLite" />
+      <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=plastic&logo=mongodb&logoColor=white" alt="MongoDB" />
+      <img src="https://img.shields.io/badge/redis-%23DD0031.svg?style=plastic&logo=redis&logoColor=white" alt="Redis" />
+      <img src="https://img.shields.io/badge/Prisma-3982CE?style=plastic&logo=Prisma&logoColor=white" alt="Prisma" />
+    </td>
+  </tr>
+  <tr>
+    <!-- Cloud & DevOps -->
+    <td width="50%" valign="top">
+      <strong>☁️ Cloud, Hosting & DevOps</strong><br/>
+      <img src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=plastic&logo=amazon-aws&logoColor=white" alt="AWS" />
+      <img src="https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=plastic&logo=google-cloud&logoColor=white" alt="Google Cloud" />
+      <img src="https://img.shields.io/badge/azure-%230072C6.svg?style=plastic&logo=microsoftazure&logoColor=white" alt="Azure" />
+      <img src="https://img.shields.io/badge/firebase-%23039BE5.svg?style=plastic&logo=firebase" alt="Firebase" />
+      <img src="https://img.shields.io/badge/firebase-a08021?style=plastic&logo=firebase&logoColor=ffcd34" alt="Firebase Pro" />
+      <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=plastic&logo=supabase&logoColor=white" alt="Supabase" />
+      <img src="https://img.shields.io/badge/Cloudflare-F38020?style=plastic&logo=Cloudflare&logoColor=white" alt="Cloudflare" />
+      <img src="https://img.shields.io/badge/vercel-%23000000.svg?style=plastic&logo=vercel&logoColor=white" alt="Vercel" />
+      <img src="https://img.shields.io/badge/netlify-%23000000.svg?style=plastic&logo=netlify&logoColor=#00C7B7" alt="Netlify" />
+      <img src="https://img.shields.io/badge/Render-%46E3B7.svg?style=plastic&logo=render&logoColor=white" alt="Render" />
+      <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=plastic&logo=docker&logoColor=white" alt="Docker" />
+      <img src="https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=plastic&logo=kubernetes&logoColor=white" alt="Kubernetes" />
+      <img src="https://img.shields.io/badge/github%20actions-%232671E5.svg?style=plastic&logo=githubactions&logoColor=white" alt="GitHub Actions" />
+      <img src="https://img.shields.io/badge/git-%23F05033.svg?style=plastic&logo=git&logoColor=white" alt="Git" />
+      <img src="https://img.shields.io/badge/github-%23121011.svg?style=plastic&logo=github&logoColor=white" alt="GitHub" />
+      <img src="https://img.shields.io/badge/gitlab-%23181717.svg?style=plastic&logo=gitlab&logoColor=white" alt="GitLab" />
+      <img src="https://img.shields.io/badge/-Vitest-252529?style=plastic&logo=vitest&logoColor=FCC72B" alt="Vitest" />
+      <img src="https://img.shields.io/badge/Postman-FF6C37?style=plastic&logo=postman&logoColor=white" alt="Postman" />
+    </td>
+    <!-- Game Dev & Graphics -->
+    <td width="50%" valign="top">
+      <strong>🎮 Game Dev, Graphics & Design</strong><br/>
+      <img src="https://img.shields.io/badge/OpenGL-white?logo=OpenGL&style=plastic" alt="OpenGL" />
+      <img src="https://img.shields.io/badge/OpenGL-%23FFFFFF.svg?style=plastic&logo=opengl" alt="OpenGL Pro" />
+      <img src="https://img.shields.io/badge/WebGL-990000?logo=webgl&logoColor=white&style=plastic" alt="WebGL" />
+      <img src="https://img.shields.io/badge/threejs-black?style=plastic&logo=three.js&logoColor=white" alt="Three.js" />
+      <img src="https://img.shields.io/badge/web3.js-F16822?style=plastic&logo=web3.js&logoColor=white" alt="Web3.js" />
+      <img src="https://img.shields.io/badge/unity-%23000000.svg?style=plastic&logo=unity&logoColor=white" alt="Unity" />
+      <img src="https://img.shields.io/badge/unrealengine-%23313131.svg?style=plastic&logo=unrealengine&logoColor=white" alt="Unreal Engine" />
+      <img src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=plastic&logo=figma&logoColor=white" alt="Figma" />
+      <img src="https://img.shields.io/badge/Canva-%2300C4CC.svg?style=plastic&logo=Canva&logoColor=white" alt="Canva" />
+      <img src="https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=plastic&logo=adobe%20photoshop&logoColor=white" alt="Adobe Photoshop" />
+    </td>
+  </tr>
+  <tr>
+    <!-- Data Science -->
+    <td width="50%" valign="top">
+      <strong>📊 Data Science & Deep Learning</strong><br/>
+      <img src="https://img.shields.io/badge/Anaconda-%2344A833.svg?style=plastic&logo=anaconda&logoColor=white" alt="Anaconda" />
+      <img src="https://img.shields.io/badge/pandas-%23150458.svg?style=plastic&logo=pandas&logoColor=white" alt="Pandas" />
+      <img src="https://img.shields.io/badge/numpy-%23013243.svg?style=plastic&logo=numpy&logoColor=white" alt="NumPy" />
+      <img src="https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=plastic&logo=Matplotlib&logoColor=black" alt="Matplotlib" />
+      <img src="https://img.shields.io/badge/SciPy-%230C55A5.svg?style=plastic&logo=scipy&logoColor=white" alt="SciPy" />
+      <img src="https://img.shields.io/badge/Keras-%23D00000.svg?style=plastic&logo=Keras&logoColor=white" alt="Keras" />
+      <img src="https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=plastic&logo=TensorFlow&logoColor=white" alt="TensorFlow" />
+      <img src="https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=plastic&logo=scikit-learn&logoColor=white" alt="scikit-learn" />
+    </td>
+    <!-- Platforms & Brands -->
+    <td width="50%" valign="top">
+      <strong>🛠️ Brands, Platforms & Gaming</strong><br/>
+      <img src="https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=plastic&logo=windows-terminal&logoColor=white" alt="Windows Terminal" />
+      <img src="https://img.shields.io/badge/cisco-%23049fd9.svg?style=plastic&logo=cisco&logoColor=black" alt="Cisco" />
+      <img src="https://img.shields.io/badge/Meta-%230467DF.svg?style=plastic&logo=Meta&logoColor=white" alt="Meta" />
+      <img src="https://img.shields.io/badge/Uber-%23000000.svg?style=plastic&logo=Uber&logoColor=white" alt="Uber" />
+      <img src="https://img.shields.io/badge/nVIDIA-%2376B900.svg?style=plastic&logo=nVIDIA&logoColor=white" alt="nVIDIA" />
+      <img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=plastic&logo=firefox&logoColor=%23FF7139" alt="Portfolio" />
+      <img src="https://img.shields.io/badge/Ubisoft-%23F5F5F5.svg?style=plastic&logo=Ubisoft&logoColor=black" alt="Ubisoft" />
+      <img src="https://img.shields.io/badge/steam-%23000000.svg?style=plastic&logo=steam&logoColor=white" alt="Steam" />
+      <img src="https://img.shields.io/badge/xbox-%23107C10.svg?style=plastic&logo=xbox&logoColor=white" alt="Xbox" />
+      <img src="https://img.shields.io/badge/riotgames-D32936.svg?style=plastic&logo=riotgames&logoColor=white" alt="Riot Games" />
+      <img src="https://img.shields.io/badge/PSN-%230070D1.svg?style=plastic&logo=Playstation&logoColor=white" alt="PlayStation Network" />
+      <img src="https://img.shields.io/badge/AMD-%23000000.svg?style=plastic&logo=amd&logoColor=white" alt="AMD" />
+      <img src="https://img.shields.io/badge/epicgames-%23313131.svg?style=plastic&logo=epicgames&logoColor=white" alt="Epic Games" />
+      <img src="https://img.shields.io/badge/ea-%23000000.svg?style=plastic&logo=ea&logoColor=white" alt="EA" />
     </td>
   </tr>
 </table>
@@ -123,17 +285,40 @@ Here are select projects demonstrating my system design, full-stack, and graphic
 ### 📊 GitHub Activity & Metrics
 
 <table align="center" width="100%">
-  <tr>
-    <td width="50%" align="center">
-      <img src="https://github-readme-stats.vercel.app/api?username=ASHISH-7142023&show_icons=true&theme=matrix&count_private=true&hide_border=true&bg_color=050505&title_color=22c55e&text_color=8bd9a2&icon_color=22c55e" alt="GitHub Stats" width="100%" />
-    </td>
-    <td width="50%" align="center">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ASHISH-7142023&layout=compact&theme=matrix&hide_border=true&bg_color=050505&title_color=22c55e&text_color=8bd9a2" alt="Top Languages" width="100%" />
-    </td>
-  </tr>
+  <!-- Trophies -->
   <tr>
     <td colspan="2" align="center">
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=ASHISH-7142023&theme=matrix&hide_border=true&background=050505&ring=22c55e&fire=22c55e&stroke=8bd9a2" alt="GitHub Streak" width="100%" />
+      <h4>🏆 GitHub Trophies</h4>
+      <img src="https://github-profile-trophy.vercel.app/?username=ASHISH-7142023&theme=matrix&no-frame=false&no-bg=true&margin-w=4" alt="GitHub Trophies" width="100%" />
+      <br/><br/>
+    </td>
+  </tr>
+  <!-- GitHub Readme Stats -->
+  <tr>
+    <td width="50%" align="center">
+      <img src="https://github-readme-stats.shion.dev/api?username=ASHISH-7142023&theme=matrix&hide_border=false&include_all_commits=false&count_private=false&bg_color=050505&title_color=22c55e&text_color=8bd9a2&icon_color=22c55e&border_color=22c55e" alt="GitHub Stats" width="100%" />
+    </td>
+    <td width="50%" align="center">
+      <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=ASHISH-7142023&theme=matrix&hide_border=false&include_all_commits=false&count_private=false&layout=compact&bg_color=050505&title_color=22c55e&text_color=8bd9a2&border_color=22c55e" alt="Top Languages" width="100%" />
+    </td>
+  </tr>
+  <!-- Streak Stats -->
+  <tr>
+    <td colspan="2" align="center">
+      <br/>
+      <img src="https://streak-stats.demolab.com/?user=ASHISH-7142023&theme=matrix&hide_border=false&background=050505&ring=22c55e&fire=22c55e&stroke=8bd9a2&currStreakLabel=22c55e&sideNums=8bd9a2&sideLabels=8bd9a2&dates=8bd9a2" alt="GitHub Streak" width="100%" />
+      <br/><br/>
+    </td>
+  </tr>
+  <!-- Top Contributed Repo & Random Quote -->
+  <tr>
+    <td width="55%" align="center" valign="top">
+      <h4>🔝 Top Contributed Repositories</h4>
+      <img src="https://github-contributor-stats.vercel.app/api?username=ASHISH-7142023&limit=5&theme=matrix&combine_all_yearly_contributions=true&bg_color=050505&title_color=22c55e&text_color=8bd9a2&border_color=22c55e" alt="Top Contributed Repos" width="100%" />
+    </td>
+    <td width="45%" align="center" valign="top">
+      <h4>✍️ Random Dev Quote</h4>
+      <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=matrix" alt="Random Dev Quote" width="100%" />
     </td>
   </tr>
 </table>
@@ -153,3 +338,11 @@ Here are select projects demonstrating my system design, full-stack, and graphic
     <img src="https://img.shields.io/badge/github-view%20source-22c55e?style=for-the-badge&logo=github&logoColor=22c55e&labelColor=0d1117" alt="GitHub" />
   </a>
 </p>
+
+<p align="center">
+  <a href="https://visitcount.itsvg.in">
+    <img src="https://komarev.com/ghpvc/?username=ASHISH-7142023&icon=0&color=22c55e" alt="Page Views" />
+  </a>
+</p>
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) & Custom styled to GitSkins Cyber Vibe -->
