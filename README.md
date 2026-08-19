@@ -1,75 +1,20 @@
 # ASHISH-7142023
 
-<table width="100%">
-  <tr>
-    <!-- LEFT SIDEBAR -->
-    <td width="30%" valign="top">
-      <p align="center">
-        <a href="https://www.gitskins.com/showcase/ASHISH-7142023?skin=cyber">
-          <img src="https://www.gitskins.com/api/github-avatar?username=ASHISH-7142023&size=400" width="90%" alt="ASHISH-7142023 Avatar" style="border-radius: 18px;" />
-        </a>
-      </p>
-      <h2 align="center">ASHISH-7142023</h2>
-      <p align="center">@ASHISH-7142023</p>
-      <hr/>
-      
-      <!-- Metrics Boxes -->
-      <table width="100%">
-        <tr>
-          <td>
-            <h3 align="center">8</h3>
-            <p align="center"><small>REPOS</small></p>
-          </td>
-          <td>
-            <h3 align="center">2</h3>
-            <p align="center"><small>FOLLOWERS</small></p>
-          </td>
-        </tr>
-      </table>
-      <hr/>
-      
-      <!-- Feature Flags -->
-      <p>✦ Profile README system</p>
-      <p>✦ Theme-aware avatar pack</p>
-      <p>✦ Hosted portfolio skin</p>
-      <p>✦ Animated visual kit</p>
-      
-      <hr/>
-      <p align="center">
-        <img src="https://img.shields.io/badge/status-active-22c55e?style=flat-square" alt="Status" /><br/>
-        <img src="https://img.shields.io/badge/location-india-0284c7?style=flat-square" alt="Location" />
-      </p>
-    </td>
+<p align="center">
+  <img src="Perfect.jpg" alt="Ashish Ranjan Singh Banner" width="100%" style="border-radius: 12px; box-shadow: 0 10px 30px rgba(0,0,0,0.3);" />
+</p>
 
-    <!-- RIGHT MAIN PANEL -->
-    <td width="70%" valign="top">
-      <!-- Animated GitSkins Hero Widget -->
-      <a href="https://www.gitskins.com/showcase/ASHISH-7142023?skin=cyber">
-        <img src="https://www.gitskins.com/api/section/hero?username=ASHISH-7142023&theme=matrix&style=aura" width="100%" alt="ASHISH-7142023's animated GitSkins profile" />
-      </a>
-      
-      <br/><br/>
-      
-      <!-- Stats & Stack Widgets -->
-      <table width="100%">
-        <tr>
-          <td width="50%">
-            <img src="https://www.gitskins.com/api/section/stats?username=ASHISH-7142023&theme=matrix&style=aura" width="100%" alt="GitHub Stats" />
-          </td>
-          <td width="50%">
-            <img src="https://www.gitskins.com/api/section/stack?username=ASHISH-7142023&theme=matrix&style=aura" width="100%" alt="Top Languages" />
-          </td>
-        </tr>
-      </table>
-      
-      <!-- Contribution Streak -->
-      <br/>
-      <p align="center">
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=ASHISH-7142023&theme=matrix&hide_border=true&background=050505&ring=22c55e&fire=22c55e&stroke=8bd9a2" alt="GitHub Streak" width="100%" />
-      </p>
-    </td>
-  </tr>
-</table>
+<p align="center">
+  <a href="https://www.linkedin.com/in/ashish-ranjan-singh-9b15b328b/">
+    <img src="https://img.shields.io/badge/role-systems%20%26%20full--stack-22c55e?style=for-the-badge&logo=terminal&logoColor=22c55e&labelColor=0d1117" alt="Role" />
+  </a>
+  <a href="#">
+    <img src="https://img.shields.io/badge/location-india-22c55e?style=for-the-badge&logo=googlemaps&logoColor=22c55e&labelColor=0d1117" alt="Location" />
+  </a>
+  <a href="mailto:singhashishranjan362@gmail.com">
+    <img src="https://img.shields.io/badge/contact-email%20me-22c55e?style=for-the-badge&logo=gmail&logoColor=22c55e&labelColor=0d1117" alt="Email" />
+  </a>
+</p>
 
 ---
 
@@ -89,6 +34,27 @@ I am a passionate **Full-Stack & Systems Engineer** dedicated to building premiu
 * **🔭 Currently building:** Real-time multi-server synchronization networks and AI-powered data pipelines.
 * **🎨 Design Philosophy:** Monospace typography, curated HSL palettes, responsive grid systems, and micro-interactions.
 * **⚡ Core Objective:** Delivering business value by optimizing backend throughput and maximizing customer UI satisfaction.
+
+---
+
+### 📊 GitSkins Performance Metrics & Stack
+
+<p align="center">
+  <a href="https://www.gitskins.com/showcase/ASHISH-7142023?skin=cyber">
+    <img src="https://www.gitskins.com/api/section/hero?username=ASHISH-7142023&theme=matrix&style=aura" alt="Ashish's GitSkins Cyber Showcase" width="100%" />
+  </a>
+</p>
+
+<table align="center" width="100%">
+  <tr>
+    <td width="50%" align="center">
+      <img src="https://www.gitskins.com/api/section/stats?username=ASHISH-7142023&theme=matrix&style=aura" alt="GitHub Stats" width="100%" />
+    </td>
+    <td width="50%" align="center">
+      <img src="https://www.gitskins.com/api/section/stack?username=ASHISH-7142023&theme=matrix&style=aura" alt="Top Languages" width="100%" />
+    </td>
+  </tr>
+</table>
 
 ---
 
@@ -151,6 +117,26 @@ Here are select projects demonstrating my system design, full-stack, and graphic
 * **Stack**: `HTML5` | `Vanilla CSS3` | `jQuery` | `Remix Icons`
 * **⚡ Recruiter Highlight**: Focuses on micro-interactions and customer conversion optimization. Implements full local-storage shopping cart caching to keep interactions client-side and ultra-fast.
 * **Key Features**: Real-time product search filter, local shopping cart clone, custom cursor tracking layout overlay, and keyframe hover transitions.
+
+---
+
+### 📊 GitHub Activity & Metrics
+
+<table align="center" width="100%">
+  <tr>
+    <td width="50%" align="center">
+      <img src="https://github-readme-stats.vercel.app/api?username=ASHISH-7142023&show_icons=true&theme=matrix&count_private=true&hide_border=true&bg_color=050505&title_color=22c55e&text_color=8bd9a2&icon_color=22c55e" alt="GitHub Stats" width="100%" />
+    </td>
+    <td width="50%" align="center">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ASHISH-7142023&layout=compact&theme=matrix&hide_border=true&bg_color=050505&title_color=22c55e&text_color=8bd9a2" alt="Top Languages" width="100%" />
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2" align="center">
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=ASHISH-7142023&theme=matrix&hide_border=true&background=050505&ring=22c55e&fire=22c55e&stroke=8bd9a2" alt="GitHub Streak" width="100%" />
+    </td>
+  </tr>
+</table>
 
 ---
 
