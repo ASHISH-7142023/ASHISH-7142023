@@ -199,48 +199,6 @@ Here are select projects demonstrating my system design, full-stack, and graphic
 * **⚡ Recruiter Highlight**: Focuses on micro-interactions and customer conversion optimization. Implements full local-storage shopping cart caching to keep interactions client-side and ultra-fast.
 * **Key Features**: Real-time product search filter, local shopping cart clone, custom cursor tracking layout overlay, and keyframe hover transitions.
 
----
-
-### 📊 GitHub Activity & Metrics
-
-<table align="center" width="100%">
-  <!-- Trophies -->
-  <tr>
-    <td colspan="2" align="center">
-      <h4>🏆 GitHub Trophies</h4>
-      <img src="https://github-profile-trophy.vercel.app/?username=ASHISH-7142023&theme=matrix&no-frame=false&no-bg=true&margin-w=4" alt="GitHub Trophies" width="100%" />
-      <br/><br/>
-    </td>
-  </tr>
-  <!-- GitHub Readme Stats -->
-  <tr>
-    <td width="50%" align="center">
-      <img src="https://github-readme-stats.shion.dev/api?username=ASHISH-7142023&theme=matrix&hide_border=false&include_all_commits=false&count_private=false&bg_color=050505&title_color=22c55e&text_color=8bd9a2&icon_color=22c55e&border_color=22c55e" alt="GitHub Stats" width="100%" />
-    </td>
-    <td width="50%" align="center">
-      <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=ASHISH-7142023&theme=matrix&hide_border=false&include_all_commits=false&count_private=false&layout=compact&bg_color=050505&title_color=22c55e&text_color=8bd9a2&border_color=22c55e" alt="Top Languages" width="100%" />
-    </td>
-  </tr>
-  <!-- Streak Stats -->
-  <tr>
-    <td colspan="2" align="center">
-      <br/>
-      <img src="https://streak-stats.demolab.com/?user=ASHISH-7142023&theme=matrix&hide_border=false&background=050505&ring=22c55e&fire=22c55e&stroke=8bd9a2&currStreakLabel=22c55e&sideNums=8bd9a2&sideLabels=8bd9a2&dates=8bd9a2" alt="GitHub Streak" width="100%" />
-      <br/><br/>
-    </td>
-  </tr>
-  <!-- Top Contributed Repo & Random Quote -->
-  <tr>
-    <td width="55%" align="center" valign="top">
-      <h4>🔝 Top Contributed Repositories</h4>
-      <img src="https://github-contributor-stats.vercel.app/api?username=ASHISH-7142023&limit=5&theme=matrix&combine_all_yearly_contributions=true&bg_color=050505&title_color=22c55e&text_color=8bd9a2&border_color=22c55e" alt="Top Contributed Repos" width="100%" />
-    </td>
-    <td width="45%" align="center" valign="top">
-      <h4>✍️ Random Dev Quote</h4>
-      <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=matrix" alt="Random Dev Quote" width="100%" />
-    </td>
-  </tr>
-</table>
 
 ---
 
