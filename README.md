@@ -243,6 +243,17 @@ Here are select projects demonstrating my system design, full-stack, and graphic
 * **⚡ Recruiter Highlight**: Emphasizes premium visual aesthetics with layout-aware fluid transitions, lazy loading of high-resolution images, and accessible full-screen overlay components.
 * **Key Features**: Auto-responsive image grid layout, custom category/tag-based in-memory filters, dynamic fullscreen image slider/lightbox modal, and micro-animations for interactive hover transitions.
 
+---
+
+### 🐍 GitHub Contribution Art
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ASHISH-7142023/ASHISH-7142023/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ASHISH-7142023/ASHISH-7142023/output/github-contribution-grid-snake.svg" />
+    <img alt="github-snake" src="https://raw.githubusercontent.com/ASHISH-7142023/ASHISH-7142023/output/github-contribution-grid-snake.svg" width="100%" />
+  </picture>
+</p>
 
 ---
 
