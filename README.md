@@ -175,6 +175,42 @@ For recruiter convenience, my technical toolkit is categorized below:
 
 Here are select projects demonstrating my system design, full-stack, and graphic engineering skills.
 
+---
+
+#### 🌟 Flagship Project: [Singh Cake Delight](https://github.com/ASHISH-7142023/SINGH-CAKE-DELIGHT)
+> **Live Demo:** [singh-cake-delight.vercel.app](https://singh-cake-delight.vercel.app) &nbsp;|&nbsp; **Status:** 🟢 `Production-Ready`
+
+<table width="100%">
+  <tr>
+    <td style="border: 1px solid rgba(74, 222, 128, 0.24); background: rgba(2, 12, 6, 0.4); border-radius: 12px; padding: 16px;">
+      <strong>🎯 Goal:</strong> An elegant full-stack cake-ordering storefront and scheduling admin dashboard designed with a warm, modern bakery theme.
+      <br/><br/>
+      <strong>⚡ Tech Stack:</strong> 
+      <code>React 18</code> &nbsp;|&nbsp; 
+      <code>TypeScript</code> &nbsp;|&nbsp; 
+      <code>Tailwind CSS</code> &nbsp;|&nbsp; 
+      <code>Express 5</code> &nbsp;|&nbsp; 
+      <code>PostgreSQL</code> &nbsp;|&nbsp; 
+      <code>Drizzle ORM</code> &nbsp;|&nbsp; 
+      <code>Redis</code> &nbsp;|&nbsp; 
+      <code>WhatsApp Cloud API</code>
+      <br/><br/>
+      <strong>💡 Recruiter Highlight:</strong>
+      Demonstrates commercial-grade software architecture, transactional database safety (implementing optimistic locking in Drizzle ORM to resolve concurrent booking slot race conditions), and direct client communication loops via native WhatsApp Business integration.
+      <br/><br/>
+      <strong>✨ Key Features:</strong>
+      <ul>
+        <li><strong>Interactive Customizer:</strong> Real-time cake customization module calculating weight, flavor profiles, and tiered price adjustments dynamically.</li>
+        <li><strong>Auto-Scheduling Calendar:</strong> Advanced admin calendar view for order tracking, preparation scheduling, and automated delivery window blocking.</li>
+        <li><strong>Automated Notifications:</strong> Asynchronous background workers trigger immediate WhatsApp updates for order confirmation, payment receipt, and dispatch tracking.</li>
+        <li><strong>Optimized Infrastructure:</strong> Secure JWT authentication with HTTP-only cookies, Redis session caching, and structured database indexing for rapid queries.</li>
+      </ul>
+    </td>
+  </tr>
+</table>
+
+---
+
 #### 1. 🌌 [SyncStream](https://github.com/ASHISH-7142023/SyncStream)
 * **Goal**: A production-grade, horizontally-scalable real-time room chat application.
 * **Stack**: `React SPA` | `Spring Boot` | `Redis Pub/Sub` | `STOMP WebSockets`
@@ -187,13 +223,7 @@ Here are select projects demonstrating my system design, full-stack, and graphic
 * **⚡ Recruiter Highlight**: Showcases visual development capabilities using math-driven rendering. Designed lightweight custom Bezier curves inside dynamic SVGs without external visualization libraries, reducing asset loading time by 90%.
 * **Key Features**: Interactive SVG Bezier forecasting timeline (scaling to 10-year plans), and a custom Credit Score Engine with dynamic sliders and SVG scoring gauges.
 
-#### 3. 🍰 [Singh Cake Delight](https://github.com/ASHISH-7142023/SINGH-CAKE-DELIGHT)
-* **Goal**: Elegant full-stack cake-ordering storefront with admin scheduling tools.
-* **Stack**: `React 18` | `TypeScript` | `Express 5` | `PostgreSQL` | `Drizzle ORM` | `Tailwind CSS`
-* **⚡ Recruiter Highlight**: Demonstrates commercial application development capabilities, highlighting database schema design, transactional integrity (Drizzle ORM), and client notifications via direct WhatsApp API integration.
-* **Key Features**: Auto-scheduling calendar for order tracking, admin configuration tools, responsive styling, and automated transaction updates.
-
-#### 4. 🛍️ [Prime Pick](https://github.com/ASHISH-7142023/PRIME-PICK)
+#### 3. 🛍️ [Prime Pick](https://github.com/ASHISH-7142023/PRIME-PICK)
 * **Goal**: Clean, responsive multi-page e-commerce template for fashion garments.
 * **Stack**: `HTML5` | `Vanilla CSS3` | `jQuery` | `Remix Icons`
 * **⚡ Recruiter Highlight**: Focuses on micro-interactions and customer conversion optimization. Implements full local-storage shopping cart caching to keep interactions client-side and ultra-fast.
