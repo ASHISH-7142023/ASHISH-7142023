@@ -212,22 +212,36 @@ Here are select projects demonstrating my system design, full-stack, and graphic
 ---
 
 #### 1. 🌌 [SyncStream](https://github.com/ASHISH-7142023/SyncStream)
+> **Status:** 🟡 `Under Development`
+
 * **Goal**: A production-grade, horizontally-scalable real-time room chat application.
 * **Stack**: `React SPA` | `Spring Boot` | `Redis Pub/Sub` | `STOMP WebSockets`
 * **⚡ Recruiter Highlight**: Solves multi-node synchronization issues by implementing a Redis Pub/Sub cluster. Demonstrates proficiency in stateful WebSocket routing, low-latency messaging, connection auto-recovery policies, and premium glassmorphic visual animations.
 * **Key Features**: Dynamic group partitioning, real-time message broadcasting across distinct servers, connection recovery handlers, and fluid UI micro-interactions.
 
 #### 2. 📈 [FinSphere AI](https://github.com/ASHISH-7142023/FinSphere-AI)
+> **Live Demo:** [fin-sphere-ai-frontend.vercel.app](https://fin-sphere-ai-frontend.vercel.app/) &nbsp;|&nbsp; **Status:** 🟢 `Production-Ready`
+
 * **Goal**: Premium, cinematic personal finance super-app featuring interactive predictive charts.
 * **Stack**: `HTML5` | `Vanilla CSS3` | `ES6 JavaScript` | `SVGs`
 * **⚡ Recruiter Highlight**: Showcases visual development capabilities using math-driven rendering. Designed lightweight custom Bezier curves inside dynamic SVGs without external visualization libraries, reducing asset loading time by 90%.
 * **Key Features**: Interactive SVG Bezier forecasting timeline (scaling to 10-year plans), and a custom Credit Score Engine with dynamic sliders and SVG scoring gauges.
 
 #### 3. 🛍️ [Prime Pick](https://github.com/ASHISH-7142023/PRIME-PICK)
+> **Live Demo:** [prime-pick (GitHub Pages)](https://github.com/ASHISH-7142023/PRIME-PICK/deployments/github-pages) &nbsp;|&nbsp; **Status:** 🟢 `Production-Ready`
+
 * **Goal**: Clean, responsive multi-page e-commerce template for fashion garments.
 * **Stack**: `HTML5` | `Vanilla CSS3` | `jQuery` | `Remix Icons`
 * **⚡ Recruiter Highlight**: Focuses on micro-interactions and customer conversion optimization. Implements full local-storage shopping cart caching to keep interactions client-side and ultra-fast.
 * **Key Features**: Real-time product search filter, local shopping cart clone, custom cursor tracking layout overlay, and keyframe hover transitions.
+
+#### 4. 🖼️ [Photo Gallery Project](https://github.com/ASHISH-7142023/photo-gallery-project)
+> **Live Demo:** [photo-gallery-project-six.vercel.app](https://photo-gallery-project-six.vercel.app/) &nbsp;|&nbsp; **Status:** 🟢 `Production-Ready`
+
+* **Goal**: A modern, highly responsive photo gallery application.
+* **Stack**: `React` | `Tailwind CSS` | `Framer Motion` | `Vite`
+* **⚡ Recruiter Highlight**: Emphasizes premium visual aesthetics with layout-aware fluid transitions, lazy loading of high-resolution images, and accessible full-screen overlay components.
+* **Key Features**: Auto-responsive image grid layout, custom category/tag-based in-memory filters, dynamic fullscreen image slider/lightbox modal, and micro-animations for interactive hover transitions.
 
 
 ---
