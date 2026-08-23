@@ -178,7 +178,7 @@ Here are select projects demonstrating my system design, full-stack, and graphic
 ---
 
 #### 🌟 Flagship Project: [Singh Cake Delight](https://github.com/ASHISH-7142023/SINGH-CAKE-DELIGHT)
-> **Status:** 🟢 `Production-Ready (Vercel Configured)`
+> **Live Demo:** [singh-cake-delight.vercel.app](https://singh-cake-delight.vercel.app) &nbsp;|&nbsp; **Status:** 🟢 `Production-Ready`
 
 <table width="100%">
   <tr>
@@ -212,92 +212,23 @@ Here are select projects demonstrating my system design, full-stack, and graphic
 ---
 
 #### 1. 🌌 [SyncStream](https://github.com/ASHISH-7142023/SyncStream)
-> **Status:** 🟢 `Production-Ready`
-
-<table width="100%">
-  <tr>
-    <td style="border: 1px solid rgba(74, 222, 128, 0.24); background: rgba(2, 12, 6, 0.4); border-radius: 12px; padding: 16px;">
-      <strong>🎯 Goal:</strong> A production-grade, horizontally-scalable real-time room chat application.
-      <br/><br/>
-      <strong>⚡ Tech Stack:</strong> 
-      <code>React SPA</code> &nbsp;|&nbsp; 
-      <code>Spring Boot</code> &nbsp;|&nbsp; 
-      <code>Redis Pub/Sub</code> &nbsp;|&nbsp; 
-      <code>STOMP WebSockets</code>
-      <br/><br/>
-      <strong>💡 Recruiter Highlight:</strong>
-      Solves multi-node synchronization issues by implementing a Redis Pub/Sub cluster. Demonstrates proficiency in stateful WebSocket routing, low-latency messaging, connection auto-recovery policies, and premium glassmorphic visual animations.
-      <br/><br/>
-      <strong>✨ Key Features:</strong>
-      <ul>
-        <li><strong>Dynamic Partitioning:</strong> Automatic load balancing and group routing across server nodes.</li>
-        <li><strong>Real-time Broadcast:</strong> Low-latency message synchronization across distinct servers using a Redis Pub/Sub cluster.</li>
-        <li><strong>Connection Recovery:</strong> Resilient Client STOMP session handlers with automatic retry and back-off logic.</li>
-        <li><strong>Cinematic Design:</strong> Premium glassmorphic interface with fluid transitions and custom theme states.</li>
-      </ul>
-    </td>
-  </tr>
-</table>
-
----
+* **Goal**: A production-grade, horizontally-scalable real-time room chat application.
+* **Stack**: `React SPA` | `Spring Boot` | `Redis Pub/Sub` | `STOMP WebSockets`
+* **⚡ Recruiter Highlight**: Solves multi-node synchronization issues by implementing a Redis Pub/Sub cluster. Demonstrates proficiency in stateful WebSocket routing, low-latency messaging, connection auto-recovery policies, and premium glassmorphic visual animations.
+* **Key Features**: Dynamic group partitioning, real-time message broadcasting across distinct servers, connection recovery handlers, and fluid UI micro-interactions.
 
 #### 2. 📈 [FinSphere AI](https://github.com/ASHISH-7142023/FinSphere-AI)
-> **Status:** 🟢 `Completed`
-
-<table width="100%">
-  <tr>
-    <td style="border: 1px solid rgba(74, 222, 128, 0.24); background: rgba(2, 12, 6, 0.4); border-radius: 12px; padding: 16px;">
-      <strong>🎯 Goal:</strong> Premium, cinematic personal finance super-app featuring interactive predictive charts.
-      <br/><br/>
-      <strong>⚡ Tech Stack:</strong> 
-      <code>HTML5</code> &nbsp;|&nbsp; 
-      <code>Vanilla CSS3</code> &nbsp;|&nbsp; 
-      <code>ES6 JavaScript</code> &nbsp;|&nbsp; 
-      <code>SVGs</code>
-      <br/><br/>
-      <strong>💡 Recruiter Highlight:</strong>
-      Showcases advanced front-end engineering and graphic development capabilities using math-driven rendering. Designed lightweight custom Bezier curves inside dynamic SVGs without external visualization libraries, reducing asset loading times by 90%.
-      <br/><br/>
-      <strong>✨ Key Features:</strong>
-      <ul>
-        <li><strong>SVG Bezier Forecasting:</strong> An interactive, lightweight mathematical graphing timeline extending to 10-year forecasts.</li>
-        <li><strong>Credit Score Gauge:</strong> Custom gauge component with native SVG animation and interactive sliders.</li>
-        <li><strong>Fluid Timeline Physics:</strong> Interactive UI nodes built entirely with vanilla CSS animations and transitions.</li>
-        <li><strong>Zero-Dependency Optimization:</strong> Ultra-fast load times and bundle sizes minimized through raw DOM rendering.</li>
-      </ul>
-    </td>
-  </tr>
-</table>
-
----
+* **Goal**: Premium, cinematic personal finance super-app featuring interactive predictive charts.
+* **Stack**: `HTML5` | `Vanilla CSS3` | `ES6 JavaScript` | `SVGs`
+* **⚡ Recruiter Highlight**: Showcases visual development capabilities using math-driven rendering. Designed lightweight custom Bezier curves inside dynamic SVGs without external visualization libraries, reducing asset loading time by 90%.
+* **Key Features**: Interactive SVG Bezier forecasting timeline (scaling to 10-year plans), and a custom Credit Score Engine with dynamic sliders and SVG scoring gauges.
 
 #### 3. 🛍️ [Prime Pick](https://github.com/ASHISH-7142023/PRIME-PICK)
-> **Status:** 🟢 `Completed`
+* **Goal**: Clean, responsive multi-page e-commerce template for fashion garments.
+* **Stack**: `HTML5` | `Vanilla CSS3` | `jQuery` | `Remix Icons`
+* **⚡ Recruiter Highlight**: Focuses on micro-interactions and customer conversion optimization. Implements full local-storage shopping cart caching to keep interactions client-side and ultra-fast.
+* **Key Features**: Real-time product search filter, local shopping cart clone, custom cursor tracking layout overlay, and keyframe hover transitions.
 
-<table width="100%">
-  <tr>
-    <td style="border: 1px solid rgba(74, 222, 128, 0.24); background: rgba(2, 12, 6, 0.4); border-radius: 12px; padding: 16px;">
-      <strong>🎯 Goal:</strong> Clean, responsive multi-page e-commerce template for fashion garments.
-      <br/><br/>
-      <strong>⚡ Tech Stack:</strong> 
-      <code>HTML5</code> &nbsp;|&nbsp; 
-      <code>Vanilla CSS3</code> &nbsp;|&nbsp; 
-      <code>jQuery</code> &nbsp;|&nbsp; 
-      <code>Remix Icons</code>
-      <br/><br/>
-      <strong>💡 Recruiter Highlight:</strong>
-      Focuses on micro-interactions and customer conversion optimization. Implements full local-storage shopping cart caching to keep interactions client-side and ultra-fast.
-      <br/><br/>
-      <strong>✨ Key Features:</strong>
-      <ul>
-        <li><strong>Real-time Search Filter:</strong> In-memory client-side catalog search for instantaneous filtering.</li>
-        <li><strong>Local Cart Caching:</strong> Full client-side state replication caching products dynamically in LocalStorage.</li>
-        <li><strong>Custom Cursor Overlay:</strong> Advanced mouse-tracking CSS effects creating an immersive shopping experience.</li>
-        <li><strong>Micro-Interactions:</strong> Clean hover animations and transitions engineered to boost CTR.</li>
-      </ul>
-    </td>
-  </tr>
-</table>
 
 ---
 
