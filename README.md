@@ -1,6 +1,6 @@
 
 <p align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=900&duration=4985&pause=89&color=3FB950&background=FF000000&center=true&random=true&width=435&lines=Open+to+SWE+%2F+ASE+%2F+Full+Stack+Roles;Full+Stack+Developer+%F0%9F%91%A8%F0%9F%8F%BB%E2%80%8D%F0%9F%92%BB;Creator+Of+Finsphere+AI+%26+SyncStream;Hello!+I'm+Ashish+Ranjan+Singh%F0%9F%91%8B%F0%9F%98%8A;Singer+%26+Traveller+%F0%9F%8C%8D;B-Tech+CSE+Student+%40SOA+ITER%2C+BBSR;Let's+Build+Something+Crazy+Together+;Owner+Of+Singh+Cake+Delight+%F0%9F%8E%82" alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=900&duration=4975&pause=89&color=3FB950&background=FF000000&center=true&vCenter=true&random=true&width=435&lines=Hello!+I'm+Ashish+Ranjan+Singh%F0%9F%91%8B%F0%9F%98%8A;B-Tech+CSE+Student+%40SOA+ITER%2C+BBSR;Full+Stack+Developer+%F0%9F%91%A8%F0%9F%8F%BB%E2%80%8D%F0%9F%92%BB;Owner+Of+Singh+Cake+Delight+%F0%9F%8E%82;Creator+Of+Finsphere+AI+%26+SyncStream;Singer+%26+Traveller+%F0%9F%8C%8D;Open+to+SWE+%2F+ASE+%2F+Full+Stack+Roles;Let's+Build+Something+Crazy+Together+" alt="Typing SVG" /></a>
 </p>
 
 <p align="center">
