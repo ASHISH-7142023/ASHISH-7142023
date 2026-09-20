@@ -30,6 +30,11 @@ jobs:
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
+      - name: Make snake slow
+        run: |
+          sed -i 's/[0-9][0-9]*ms/120000ms/g' dist/github-contribution-grid-snake.svg
+          sed -i 's/[0-9][0-9]*ms/120000ms/g' dist/github-contribution-grid-snake-dark.svg
+
       # Push the content of <build_dir> to a branch
       # The content will be available at https://raw.githubusercontent.com/<github_user>/<repository>/<target_branch>/<file> or github pages
       - name: push github-contribution-grid-snake.svg to the output branch
